@@ -1,0 +1,4 @@
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPLibrary\bin\Debug\TCPLibrary.dll
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPLibrary\bin\Debug\TCPLibrary.pdb
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPLibrary\obj\Debug\TCPLibrary.dll
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPLibrary\obj\Debug\TCPLibrary.pdb

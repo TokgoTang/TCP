@@ -1,0 +1,10 @@
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPClient\bin\Debug\TCPClient.exe
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPClient\bin\Debug\TCPClient.pdb
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPClient\obj\x86\Debug\TCPClient.Properties.Resources.resources
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPClient\obj\x86\Debug\TCPClient.csproj.GenerateResource.Cache
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPClient\obj\x86\Debug\TCPClient.exe
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPClient\obj\x86\Debug\TCPClient.pdb
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPClient\bin\Debug\TCPLibrary.dll
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPClient\bin\Debug\TCPLibrary.pdb
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPClient\obj\x86\Debug\TCPClient.csprojResolveAssemblyReference.cache
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPClient\obj\x86\Debug\TCPClient.Form1.resources

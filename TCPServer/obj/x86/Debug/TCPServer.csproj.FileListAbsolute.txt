@@ -1,0 +1,10 @@
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPServer\bin\Debug\TCPServer.exe
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPServer\bin\Debug\TCPServer.pdb
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPServer\obj\x86\Debug\TCPServer.Properties.Resources.resources
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPServer\obj\x86\Debug\TCPServer.csproj.GenerateResource.Cache
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPServer\obj\x86\Debug\TCPServer.exe
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPServer\obj\x86\Debug\TCPServer.pdb
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPServer\bin\Debug\TCPLibrary.dll
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPServer\bin\Debug\TCPLibrary.pdb
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPServer\obj\x86\Debug\TCPServer.csprojResolveAssemblyReference.cache
+D:\周智2011\VS\Demo\VS2010\TCPDemo\TCPServer\obj\x86\Debug\TCPServer.Form1.resources
